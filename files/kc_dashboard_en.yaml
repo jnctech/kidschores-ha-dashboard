@@ -1,8 +1,13 @@
 max_columns: 4
 title: Kidname Chores
 path: Kidname
-sections:
-  - type: grid
+views:
+  - type: sections
+    title: Kidname
+    icon: ''
+    max_columns: 3
+    sections:
+      - type: grid
     cards:
       - square: false
         type: grid
